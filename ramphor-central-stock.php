@@ -7,7 +7,7 @@
  * @package              Atum
  *
  * @wordpress-plugin
- * Plugin Name:          ATUM Inventory Management for WooCommerce
+ * Plugin Name:          Ramphor Central Stock
  * Plugin URI:           https://www.stockmanagementlabs.com/
  * Description:          The ultimate stock management plugin for serious WooCommerce sellers
  * Version:              1.9.1
@@ -19,7 +19,7 @@
  * Requires PHP:         5.6
  * WC requires at least: 3.6.0
  * WC tested up to:      5.4.1
- * Text Domain:          atum-stock-manager-for-woocommerce
+ * Text Domain:          ramphor-central-stock
  * Domain Path:          /languages
  * License:              GPLv2 or later
  * License URI:          http://www.gnu.org/licenses/gpl-2.0.html
