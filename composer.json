@@ -17,7 +17,8 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Atum\\": "classes/"
+			"Atum\\": "classes/Atum/",
+			"Ramphor\\": "classes/Ramphor"
 		}
 	}
 }
